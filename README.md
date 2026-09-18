@@ -7,13 +7,11 @@ An AI-powered assistant that matches citizens to government schemes based on
 their eligibility, with search, browse, and multilingual support — built to
 solve four use cases from the problem statement in one platform.
 
-## 🔗 Live Demo
-
-[Try it here](PASTE_YOUR_STREAMLIT_LINK_HERE_AFTER_DEPLOYING)
-
 ## 🖥️ Screenshots
 
-*(drag your screenshots into this line once you save — see note below)*
+<img width="1740" height="861" alt="image" src="https://github.com/user-attachments/assets/1903dd51-3d1e-45b6-a91a-51248c2911b4" />
+<img width="1743" height="764" alt="image" src="https://github.com/user-attachments/assets/a37140f5-67c0-4ab3-aa8e-1cd7bf1f7f9a" />
+
 
 ## 🎯 Problem
 
